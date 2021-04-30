@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Typography"
+
+# Optional Google font URL
+google_fonts = "family=EB+Garamond&family=Source+Sans+Pro&family=IBM+Plex+Mono"
+
+# Font families
+heading_font = "EB Garamond"
+body_font = "Source Sans Pro"
+nav_font = "Source Sans Pro"
+mono_font = "IBM Plex Mono"
