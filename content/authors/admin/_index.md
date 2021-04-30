@@ -30,7 +30,7 @@ education:
     year: 2017
   - course: BSc in Chemistry and Plant Sciences
     institution: University of Sydney
-    year: 2003
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
