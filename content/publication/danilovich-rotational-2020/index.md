@@ -1,0 +1,13 @@
+---
+title: "Rotational Spectra of Vibrationally Excited AlO and TiO in Oxygen-rich Stars"
+date: 2020-11-01
+publishDate: 2021-05-01T00:06:02.286251Z
+authors: ["T. Danilovich", "C. A. Gottlieb", "L. Decin", "A. M. S. Richards", "K. L. K. Lee", "T. Kamiński", "N. A. Patel", "K. H. Young", "K. M. Menten"]
+publication_types: ["2"]
+abstract: "Rotational transitions in vibrationally excited AlO and TiO—two possible precursors of dust—were observed in the 300 GHz range (1 mm wavelength) toward the oxygen-rich asymptotic giant branch (AGB) stars R Dor and IK Tau with ALMA, and vibrationally excited AlO was observed toward the red supergiant VY CMa with the SMA. The J = 11 → 10 transition of TiO in the v = 1 and 2 levels and the N = 9 → 8 transition in the v = 2 level of AlO were identified toward R Dor, the J = 11 → 10 line of TiO was identified in the v = 1 level toward IK Tau, and two transitions in the v = 1 and 2 levels of AlO were identified toward VY CMa. The newly derived high vibrational temperature of TiO and AlO in R Dor of 1800 ± 200 K and prior measurements of the angular extent confirm that the majority of the emission is from a region within ≲2R ⋆ of the central star. A full radiative transfer analysis of AlO in R Dor yielded a fractional abundance of ∼3% of the solar abundance of Al. From a similar analysis of TiO a fractional abundance of ∼78% of the solar abundance of Ti was found. The observations provide indirect evidence that TiO is present in a rotating disk close to the star. Further observations in the ground and excited vibrational levels are needed to determine whether AlO, TiO, and TiO2 are seeds of the Al2O3 dust in R Dor, and perhaps in the gravitationally bound dust shells in other AGB stars with low mass-loss rates."
+featured: false
+publication: "*The Astrophysical Journal*"
+url_pdf: "10.3847/1538-4357/abc079"
+doi: "10.3847/1538-4357/abc079"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Generation and structural characterization of Ge carbides GeC $_textrmn$ ( textitn = 4, 5, 6) by laser ablation, broadband rotational spectroscopy, and quantum chemistry"
+date: 2019-01-01
+publishDate: 2021-05-01T00:06:02.283984Z
+authors: ["Kin Long Kelvin Lee", "Sven Thorwirth", "Marie-Aline Martin-Drumel", "Michael C. McCarthy"]
+publication_types: ["2"]
+abstract: "Rotational spectra of three Ge carbides, linear GeC 4 , GeC 5 , and GeC 6 have been observed using chirped pulse and cavity Fourier transform microwave spectroscopy via laser ablation, guided by new high-level quantum chemical calculations.  ,   Following the recent discovery of T-shaped GeC 2 , rotational spectra of three larger Ge carbides, linear GeC 4 , GeC 5 , and GeC 6 have been observed using chirped pulse and cavity Fourier transform microwave spectroscopy and a laser ablation molecule source, guided by new high-level quantum chemical calculations of their molecular structure. Like their isovalent Si-bearing counterparts, Ge carbides with an even number of carbon atoms beyond GeC 2 are predicted to possess 1 Σ ground electronic states, while odd-numbered carbon chains are generally 3 Σ; all are predicted to be highly polar. For the three new molecules detected in this work, rotational lines of four of the five naturally occurring Ge isotopic variants have been observed between 6 and 22 GHz. Combining these measurements with ab initio force fields, the Ge–C bond lengths have been determined to high precision: the derived values of 1.776 Å for GeC 4 , 1.818 Å for GeC 5 , and 1.782 Å for GeC 6 indicate a double bond between these two atoms. Somewhat surprisingly, the spectrum of GeC 5 very closely resembles that of a 1 Σ molecule, implying a spin–spin coupling constant λ in excess of 770 GHz for this radical, a likely consequence of the large spin–orbit constant of atomic Ge (∼1000 cm −1 ). A systematic comparison between the production of SiC n and GeC n chains by laser ablation has also been undertaken. The present work suggests that other large metal-bearing molecules may be amenable to detection by similar means."
+featured: false
+publication: "*Physical Chemistry Chemical Physics*"
+url_pdf: "http://xlink.rsc.org/?DOI=C9CP03607E"
+doi: "10.1039/C9CP03607E"
+---
+
